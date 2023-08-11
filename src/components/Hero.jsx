@@ -11,7 +11,14 @@ const Hero = () => {
             onClick={() => window.open('https://github.com/Rathu03')}
             className='black_btn'
           >
-            Github
+            Rathu
+          </button>
+        <button
+            type="button"
+            onClick={() => window.open('https://github.com/Aruna282510')}
+            className='black_btn'
+          >
+            Aruna
           </button>
       </nav>
 
